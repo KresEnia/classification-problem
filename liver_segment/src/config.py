@@ -24,7 +24,7 @@ PATCH_RESIZE = 1.0
 # IMAGE PATHS
 TRAIN_BASE_PATH="/media/project_for_segmentation/images/train"
 TEST_BASE_PATH="/media/project_for_segmentation/images/test"
-CLASS_ANNOTATION_BASE_PATH="/media//project_for_segmentation/masks/class_annotations"
+CLASS_ANNOTATION_BASE_PATH="/media/project_for_segmentation/masks/class_annotations"
 COMPARTMENT_ANNOTATION_BASE_PATH="/media/project_for_segmentation/masks/compartments_annotations"
 CLASS_ANNOTATION_OUT_BASE_PATH="/media/project_for_segmentation/masks/class_annotations_out"
 COMPARTMENT_ANNOTATION_OUT_BASE_PATH="/media/project_for_segmentation/masks/compartments_annotations_out"
