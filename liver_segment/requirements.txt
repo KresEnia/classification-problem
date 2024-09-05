@@ -1,0 +1,11 @@
+imutils==0.5.4
+jupyterlab==4.1.5
+matplotlib==3.8.3
+opencv-python==4.9.0.80
+pillow==10.2.0
+print-color==0.4.6
+scikit-learn==1.4.0
+slideio==2.5.0
+torch==2.2.2
+torchvision==0.17.2
+tqdm==4.66.2
